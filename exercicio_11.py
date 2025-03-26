@@ -1,0 +1,1 @@
+quant_atual = int(input("Digite a quantidade atual em estoque"))
